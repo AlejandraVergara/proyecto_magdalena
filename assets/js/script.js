@@ -2,6 +2,7 @@ $(function () {
   $('[data-toggle="tooltip"]').tooltip()
 })
 
+/*
 $("a").click(function(event){
     if (this.hash !== "") {
       event.preventDefault();
@@ -13,3 +14,4 @@ $("html, body").animate({
         }, 800, function(){
           window.location.hash = gato;
 };
+*/
